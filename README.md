@@ -1,6 +1,6 @@
-<img height="20%" width="100%" align="center" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height="150px"/>
+<img height="20%" width="50%" align="center" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" height="150px"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paawan Singal</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paawan Singal</h1>
 <h3 align="center"></h3>
 
 
