@@ -1,4 +1,4 @@
-<img height="500px" width="800px" align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" height="150px"/>
+<img height="400px" width="650px" align="center" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif" height="150px"/>
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Paawan Singal</h1>
 <h3 align="center"></h3>
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **foodie and go to the GYM very often.**
+- ⚡ Fun fact: **foodie and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -61,7 +61,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/paawan-singal-5692091b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/PaawanSingal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Paawan_Singal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/paawan.singal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
